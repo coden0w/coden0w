@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @coden0w
+- 👋 Sup guys! I'm coden0w better said my name is Alex!
 - 👀 I’m interested in new technologies
 - 🌱 I’m currently learning ReactJS, Spring(Java), NodeJS
 - 💞️ //I’m looking to collaborate on ...
