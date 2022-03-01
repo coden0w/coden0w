@@ -1,6 +1,6 @@
 - 👋 Sup guys! I'm coden0w better said my name is Alex!
 - 👀 I’m interested in new technologies
-- 🌱 I’m currently learning ReactJS, NodeJS and working as iOS developer
+- 🌱 I’m currently learning SwiftUI and working as iOS developer
 - 💞️ //I’m looking to collaborate on ...
 - 📫 How to reach me?, hit me a dm on twitter @alexupps
 
