@@ -1,4 +1,4 @@
-- 👋 Sup guys! I'm coden0w better said my name is Alex!
+- 👋 Sup guys! I'm Alex an iOS Developer
 - 👀 I’m interested in new technologies
 - 📱 I’m currently learning SwiftUI and working as iOS developer
 - 💞️ //I’m looking to collaborate on ...
