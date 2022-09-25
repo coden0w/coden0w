@@ -1,7 +1,7 @@
 - 👋 Sup guys! I'm Alex an iOS Developer
 - 👀 I’m interested in new technologies
 - 📱 I’m currently learning SwiftUI and working as iOS developer
-- 💞️ //I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me?, hit me a dm on twitter @alexupps
 
 <!---
