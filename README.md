@@ -1,7 +1,7 @@
 - 👋 Sup guys! I'm Alex an iOS Developer.
 - 👀 I’m interested in new technologies.
 - 📱 I’m currently learning SwiftUI and working as iOS developer.
-- 🚀 Soon on the App Store.
+- 🚀 App Store: AlcaláBus, MiFarmacia and Carburant-ES.
 - 📫 How to reach me?, hit me a dm on twitter @coden0w.
 
 <!---
