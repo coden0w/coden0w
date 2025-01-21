@@ -1,8 +1,8 @@
-- 👋 Sup guys! I'm Alex an iOS Developer.
+- 👋 Sup! I'm Alex an iOS Developer.
 - 👀 I’m interested in new technologies.
 - 📱 I’m currently learning SwiftUI and working as iOS developer.
 - 🚀 App Store: AlcaláBus, MiFarmacia and Carburant-ES.
-- 📫 How to reach me?, hit me a dm on twitter @coden0w.
+- 📫 How to reach me?, Just send a message on [Linkedin](https://www.linkedin.com/in/alexandrublaga/)
 
 <!---
 coden0w/coden0w is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
