@@ -1,7 +1,7 @@
 - 👋 Sup! I'm Alex an iOS Developer.
 - 👀 I’m interested in new technologies.
-- 📱 I’m currently learning SwiftUI and working as iOS developer.
-- 🚀 App Store: AlcaláBus, MiFarmacia and Carburant-ES.
+- 📱 I’m currently working as iOS developer with SwiftUI.
+- 🚀 App Store's apps: AlcaláBus, MiFarmacia and Carburant-ES.
 - 📫 How to reach me?, Just send a message on [Linkedin](https://www.linkedin.com/in/alexandrublaga/)
 - 🌐 Check out my website [alexblaga.com](https://alexblaga.com/)
 
