@@ -2,7 +2,7 @@
 - 👀 I’m interested in new technologies.
 - 📱 I’m currently working as Senior iOS Developer with SwiftUI.
 - 🤖 Currently my side roadmap is learning Android Development with Jetpack Compose.
-- 🚀 App Store's apps: AlcaláBus, MiFarmacia and Carburant-ES, MapaBalizasV16.
+- 🚀 App Store's apps: AlcaláBus, MiFarmacia and Carburant-ES, MapaBalizasV16, StreakHub.
 - 📫 How to reach me?, Just send a message on [Linkedin](https://www.linkedin.com/in/alexandrublaga/)
 - 🌐 Check out my website [alexblaga.com](https://alexblaga.com/)
 
